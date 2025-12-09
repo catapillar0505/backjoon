@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.acmicpc.net)",
+      "WebSearch",
+      "Bash(chcp 65001)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
